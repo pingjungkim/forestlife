@@ -11,6 +11,7 @@ body {
   color: #000;
 }
 #cookie-banner {
+  box-sizing: border-box;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -132,4 +133,5 @@ body {
     font-size: 11px;
   }
 }
+
 
